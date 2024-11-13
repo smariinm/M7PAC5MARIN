@@ -1,0 +1,94 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #e44d26;
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+.eslogan {
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+.descripcion {
+    font-size: 1em;
+    margin-top: 20px;
+    padding: 0 10%;
+}
+
+#carta {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.grup {
+    margin-bottom: 30px;
+}
+
+.plat {
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-top: 10px;
+    background-color: #f9f9f9;
+}
+
+.nom {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.descripcio {
+    font-style: italic;
+    color: #555;
+}
+
+.preu {
+    color: green;
+    font-weight: bold;
+}
+
+
+footer {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer .alergenos {
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+    display: inline-block;
+}
+
+footer ul li {
+    margin: 5px 0;
+}

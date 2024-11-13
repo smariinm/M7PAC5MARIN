@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CARTA>
+    <GRUP>
+        <NOM>Entrants</NOM>
+        <PLAT>
+            <NOM>Braves</NOM>
+            <DESCRIPCIO>Mitges llunes de patata, fregides amb salsa brava lleugerament picant.</DESCRIPCIO>
+            <PREU>3.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Olives</NOM>
+            <DESCRIPCIO>Olives arbequines a l'oli d'oliva.</DESCRIPCIO>
+            <PREU>2.00</PREU>
+        </PLAT>
+    </GRUP>
+    <GRUP>
+        <NOM>Principals</NOM>
+        <PLAT>
+            <NOM>Fideuà</NOM>
+            <DESCRIPCIO>Fideuà amb marisc fresc.</DESCRIPCIO>
+            <PREU>12.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Entrecot</NOM>
+            <DESCRIPCIO>Entrecot a la brasa amb patates fregides.</DESCRIPCIO>
+            <PREU>15.50</PREU>
+        </PLAT>
+    </GRUP>
+    <GRUP>
+        <NOM>Postres</NOM>
+        <PLAT>
+            <NOM>Flam</NOM>
+            <DESCRIPCIO>Flam casolà amb nata.</DESCRIPCIO>
+            <PREU>4.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Profiteroles</NOM>
+            <DESCRIPCIO>Profiteroles farcits de crema i coberts amb xocolata.</DESCRIPCIO>
+            <PREU>5.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Tiramisú</NOM>
+            <DESCRIPCIO>Tiramisú clàssic amb mascarpone i cafè.</DESCRIPCIO>
+            <PREU>5.50</PREU>
+        </PLAT>
+    </GRUP>
+</CARTA>
